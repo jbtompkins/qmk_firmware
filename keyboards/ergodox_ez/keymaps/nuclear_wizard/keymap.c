@@ -6,12 +6,9 @@
 #define RASE 2 // function keys, numpad, page navigation
 
 enum custom_keycodes {
-#endif
-  VRSN,
-  RGB_SLD
+VRSN,
+RGB_SLD
 };
-
-
 
 const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
 /* Keymap 0: Default Dvorak Layer
