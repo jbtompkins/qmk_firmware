@@ -7,3 +7,7 @@ This keymap is similar to what I use for an Iris with a few alterations to accou
 
 * Jan 20, 2020:
   * Initial layout constructed
+* Jan 21, 2020:
+  * Changed location of layer keys from thumb cluster to bottom middle of main keys
+  * Moved Enter to right thumb cluster
+  * Added ~ next to / on second layer 
