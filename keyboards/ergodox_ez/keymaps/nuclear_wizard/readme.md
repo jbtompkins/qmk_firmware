@@ -11,3 +11,7 @@ This keymap is similar to what I use for an Iris with a few alterations to accou
   * Changed location of layer keys from thumb cluster to bottom middle of main keys
   * Moved Enter to right thumb cluster
   * Added ~ next to / on second layer 
+* Jan 27, 2020:
+  * Wanted to get Ergodox layout more similar to personal Iris layout
+  * Moved Enter to left thumb cluster 2u key, inner 2u keys are shifts now
+  * Changed LOWER layer symbols to ~,[,],/,= on right hand R3
